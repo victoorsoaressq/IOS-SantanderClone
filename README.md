@@ -1,3 +1,5 @@
+![Banner](./Assets/Screenshots/banner.png)
+
 ## Clone Santander
 
 Projeto realizado com o propósito de aprender a desenvolver Views em SwiftUI.
